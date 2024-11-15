@@ -1,0 +1,17 @@
+uid,exid,frequency,completionstatus,rating,motivation_level
+1001,2613,3 times a week,Completed,2,1
+1001,956,3 times a week,Skipped,3,1
+1002,2620,3 times a week,Completed,4,4
+1003,2196,5 times a week,Completed,5,5
+1003,601,3 times a week,Not Attempted,5,4
+1003,1153,Once a week,Skipped,3,2
+1004,2407,Twice a week,Completed,1,1
+1005,2169,5 times a week,Not Attempted,4,5
+1006,1728,Twice a week,Not Attempted,4,5
+1007,2563,Daily,Not Attempted,5,3
+1007,12,3 times a week,Completed,3,4
+1008,2079,Daily,Not Attempted,3,5
+1009,2399,Daily,Not Attempted,3,5
+1010,855,5 times a week,Not Attempted,5,1
+1010,644,Once a week,Skipped,4,1
+1010,1718,Daily,Skipped,3,2

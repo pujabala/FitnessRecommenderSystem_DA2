@@ -1,0 +1,11 @@
+uid,Age,Gender,Height (cm),Weight (kg),BMI,Primary Fitness Goal,Secondary Fitness Goal,Preferred Activity Type,Workout Intensity
+1001,21,Male,167,60,21.51,Muscle gain,Balance,Swimming,Beginner
+1002,35,Male,187,72,20.59,Weight loss,Flexibility,Cardio,Beginner
+1003,25,Male,185,57,16.65,General fitness,Balance,Walking,Expert
+1004,26,Male,160,89,34.77,General fitness,Stress reduction,Yoga,Beginner
+1005,24,Female,156,50,20.55,General fitness,Flexibility,Yoga,Intermediate
+1006,26,Male,179,79,24.66,Weight loss,Posture correction,Cardio,Expert
+1007,27,Female,186,57,16.48,Weight loss,Flexibility,Swimming,Beginner
+1008,27,Male,164,100,37.18,Weight loss,Posture correction,Yoga,Intermediate
+1009,29,Male,173,67,22.39,Muscle gain,Stress reduction,Swimming,Expert
+1010,20,Male,184,91,26.88,Muscle gain,Balance,Walking,Intermediate
